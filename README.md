@@ -7,7 +7,7 @@
 </p>
 
 ## 📋 Sobre o Projeto
-Este projeto acadêmico analisa e prevê surtos de dengue nos 645 municípios de São Paulo. A solução integra dados epidemiológicos, climáticos e geográficos para antecipar picos de incidência.
+Este projeto acadêmico analisa e prevê surtos de dengue nos 645 municípios de São Paulo. A solução integra dados epidemiológicos, climáticos e geográficos para antecipar picos de incidência. Fui responsável pela normalização e correlação dos dados.
 
 > **Diferencial Técnico:** Implementação de **Integração Espacial** via algoritmo KNN para estimar dados pluviométricos em regiões sem estações de medição.
 
